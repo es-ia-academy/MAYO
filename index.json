@@ -1,9 +1,6 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">section{
     overflow:hidden;
-}</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><section id="mdIoYIi" data-type="navigation">
-      
-      <!--CSS-->
-      <style id="VAWocXn" type="text/css" data-type="css" data-size="laptop" data-content="section">
+}</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><section id="mdIoYIi" data-type="navigation"><!--CSS--><style id="VAWocXn" type="text/css" data-type="css" data-size="laptop" data-content="section">
 
   section#mdIoYIi {
     box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
@@ -104,74 +101,11 @@
     flex-flow: wrap;
   }
   
-  </style>
-      <style id="kRuZrTL" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){}</style>
-      <style id="WMAWaxh" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  </style><style id="kRuZrTL" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){}</style><style id="WMAWaxh" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
   grid-box#IYMKJwD{
     grid-template-columns: repeat(1, 1fr);
   }
-  }</style>
-      
-      <!--HTML-->
-      <div id="uHVWELW" data-type="html"><grid-container id="eRqjrcu">
-  <grid-bg id="DJdYTFx" data-type="grid-bg">
-    <!-- bg-color -->
-    <div id="GRgVmjw" data-type="bg-color" class="div-visible">
-      <div id="uExcxIb" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div>
-      <div id="VtcTqsx" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
-      <div id="EukYkoJ" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
-    </div>
-    <!-- bg-image -->
-    <div id="LLsZomH" data-type="bg-image" class="div-hidden">
-      <picture id="MtzfSzK">
-        <source srcset="" media="(max-width:640px)">
-        <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-        <img id="PzTygzF" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
-      </picture>
-    </div>
-    <!-- bg-video -->
-    <div id="wsmacmr" data-type="bg-video" class="div-hidden">
-      <video id="LNxEQAc" autoplay="" loop="" muted="" loading="lazy">
-        <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
-      </video>
-    </div>
-  </grid-bg>
-  <grid-nav id="IYMKJwD">
-    <grid-item id="DTApRNb">
-      <grid-box id="vQVhqvs">
-        <grid-item id="YzIJjHG">
-          <a id="GdSHiLG" href="#XpGPsFM" contenteditable="true">MENU</a>
-          <button class="no-export button-delete-item" onclick="deleteItem('YzIJjHG')">-</button>
-        </grid-item>
-        <button id="fyABxNy" class="no-export grid-add-item" onclick="itemsLinks('vQVhqvs','fyABxNy')">+</button>
-      </grid-box>
-    </grid-item>
-    <grid-item id="XeSCTgy">
-      <img id="caHguqx" src="https://raw.githubusercontent.com/es-ia-academy/MAYO/main/media/images/white_200x75.jpg" data-type="image-fg" loading="lazy">
-    </grid-item>
-    <grid-item id="GqsbkqU">
-      <grid-box id="OhZRTTM">
-        <grid-item id="KQSAOJi">
-          <a id="TQxTdjR" href="#" contenteditable="true">CARRITO<span class="total-quantity">0</span></a>
-          <button class="no-export button-delete-item" onclick="deleteItem('KQSAOJi')">-</button>
-        </grid-item>
-        <button id="PbUdJQH" class="no-export grid-add-item" onclick="itemsLinks('OhZRTTM','PbUdJQH')">+</button>
-      </grid-box>
-    </grid-item>
-  </grid-nav>
-</grid-container></div>
-      
-      <!--JS-->
-      <script id="RBreRYB" data-type="js"></script>
-      <!--EDIT-->
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
-  </section>
-  
-  
-  <section id="XpGPsFM" data-type="section">
-      
-      <!--CSS-->
-      <style id="JESfZEN" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  }</style><!--HTML--><div id="uHVWELW" data-type="html"><grid-container id="eRqjrcu"><grid-bg id="DJdYTFx" data-type="grid-bg"><!-- bg-color --><div id="GRgVmjw" data-type="bg-color" class="div-visible"><div id="uExcxIb" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div><div id="VtcTqsx" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div><div id="EukYkoJ" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div></div><!-- bg-image --><div id="LLsZomH" data-type="bg-image" class="div-hidden"><picture id="MtzfSzK"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="PzTygzF" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy"></picture></div><!-- bg-video --><div id="wsmacmr" data-type="bg-video" class="div-hidden"><video id="LNxEQAc" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div></grid-bg><grid-nav id="IYMKJwD"><grid-item id="DTApRNb"><grid-box id="vQVhqvs"><grid-item id="YzIJjHG"><a id="GdSHiLG" href="#XpGPsFM" contenteditable="true">MENU</a><button class="no-export button-delete-item" onclick="deleteItem('YzIJjHG')">-</button></grid-item><button id="fyABxNy" class="no-export grid-add-item" onclick="itemsLinks('vQVhqvs','fyABxNy')">+</button></grid-box></grid-item><grid-item id="XeSCTgy"><img id="caHguqx" src="https://raw.githubusercontent.com/es-ia-academy/MAYO/main/media/images/white_200x75.jpg" data-type="image-fg" loading="lazy"></grid-item><grid-item id="GqsbkqU"><grid-box id="OhZRTTM"><grid-item id="KQSAOJi"><a id="TQxTdjR" href="#" contenteditable="true">CARRITO<span class="total-quantity">0</span></a><button class="no-export button-delete-item" onclick="deleteItem('KQSAOJi')">-</button></grid-item><button id="PbUdJQH" class="no-export grid-add-item" onclick="itemsLinks('OhZRTTM','PbUdJQH')">+</button></grid-box></grid-item></grid-nav></grid-container></div><!--JS--><script id="RBreRYB" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section><section id="XpGPsFM" data-type="section"><!--CSS--><style id="JESfZEN" type="text/css" data-type="css" data-size="laptop" data-content="section">
   grid-container#QRHPrVF {
     position: relative;
   }
@@ -265,13 +199,11 @@
     width:100%;
     object-fit:cover;
   }
-  </style>
-      <style id="tuuKAsx" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  </style><style id="tuuKAsx" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-box#ZhLRYog {
     display: grid;
   }
-  }</style>
-      <style id="rQONlji" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  }</style><style id="rQONlji" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
   grid-head#RFlbrHB{
     text-align: center;
     padding: 35px;
@@ -282,81 +214,7 @@
       padding:0;
       grid-template-columns: 1fr 1fr;
   }
-  }</style>
-      
-      <!--HTML-->
-      <div id="xHVjJgJ" data-type="html"><grid-container id="fKLxOwq">
-  <grid-bg id="HHuUNMy" data-type="grid-bg">
-    <!-- bg-color -->
-    <div id="fMwpftX" data-type="bg-color" class="div-visible">
-      <div id="ajrknVR" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div>
-      <div id="THPkAEu" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
-      <div id="dcYTziN" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
-    </div>
-    <!-- bg-image -->
-    <div id="xGDJZlN" data-type="bg-image" class="div-hidden">
-      <picture id="RHzkobs">
-        <source srcset="" media="(max-width:640px)">
-        <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-        <img id="VXfRDeN" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy">
-      </picture>
-    </div>
-    <!-- bg-video -->
-    <div id="wrCiIYN" data-type="bg-video" class="div-hidden">
-      <video id="yjsTEgu" autoplay="" loop="" muted="" loading="lazy">
-        <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
-      </video>
-    </div>
-  </grid-bg>
-  <grid-box id="ZhLRYog">
-    <grid-head id="RFlbrHB">
-      <grid-title id="NSAVONU" contenteditable="true">MENU</grid-title>
-      <grid-desc id="jcnovLr" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
-    </grid-head>
-    <grid-item id="DdJXJKg">
-      <item-head id="GpuypRa">
-        <img id="UQRkwTS" src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-      </item-head>
-      <item-body id="HbwuDuo">
-        <item-title id="WgNiTao" contenteditable="true">Lorem ipsum</item-title>
-        <item-desc id="FwAihgz" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-        <button type="button" onclick="cartLS.add({id: 4, name: 'Plantita', price: 200})">Add to Cart</button>
-      </item-body>
-      <button class="no-export grid-delete-item" onclick="deleteItem('DdJXJKg')">-</button>
-    </grid-item><grid-item id="uTBDTUO">
-      <item-head id="pomWSPT">
-        <img id="fShLczo" src="https://images.unsplash.com/photo-1502622796232-e88458466c33?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-      </item-head>
-      <item-body id="VDwlWwc">
-        <item-title id="ERwcNOl" contenteditable="true">Lorem ipsum</item-title>
-        <item-desc id="FeyHJlK" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-      </item-body>
-      <button class="no-export grid-delete-item" onclick="deleteItem('uTBDTUO')">-</button>
-    </grid-item><grid-item id="JqsnoPA">
-      <item-head id="PtrcFCE">
-        <img id="eReuiuY" src="https://images.unsplash.com/photo-1529600497935-f5fd7ccf888e?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NXx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-      </item-head>
-      <item-body id="XMRJNhj">
-        <item-title id="ZEiFstr" contenteditable="true">Lorem ipsum</item-title>
-        <item-desc id="mkzwaKM" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-      </item-body>
-      <button class="no-export grid-delete-item" onclick="deleteItem('JqsnoPA')">-</button>
-    </grid-item><grid-item id="XfDFyKc">
-      <item-head id="IJHwMvG">
-        <img id="cnUJLsu" src="https://images.unsplash.com/photo-1509664158680-07c5032b51e5?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-      </item-head>
-      <item-body id="MxfQlCy">
-        <item-title id="kyaYAYf" contenteditable="true">Lorem ipsum</item-title>
-        <item-desc id="aLgtVKx" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-      </item-body>
-      <button class="no-export grid-delete-item" onclick="deleteItem('XfDFyKc')">-</button>
-    </grid-item>
-    <button id="jAsPwko" class="no-export grid-add-item" onclick="items200x200('ZhLRYog','jAsPwko', '../global/file/empty.svg')">+</button>
-  </grid-box>
-</grid-container></div>
-      
-      <!--JS-->
-      <script id="syXVYcF" data-type="js">function renderCart(items) {
+  }</style><!--HTML--><div id="xHVjJgJ" data-type="html"><grid-container id="fKLxOwq"><grid-bg id="HHuUNMy" data-type="grid-bg"><!-- bg-color --><div id="fMwpftX" data-type="bg-color" class="div-visible"><div id="ajrknVR" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div><div id="THPkAEu" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div><div id="dcYTziN" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div></div><!-- bg-image --><div id="xGDJZlN" data-type="bg-image" class="div-hidden"><picture id="RHzkobs"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="VXfRDeN" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy"></picture></div><!-- bg-video --><div id="wrCiIYN" data-type="bg-video" class="div-hidden"><video id="yjsTEgu" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div></grid-bg><grid-box id="ZhLRYog"><grid-head id="RFlbrHB"><grid-title id="NSAVONU" contenteditable="true">MENU</grid-title><grid-desc id="jcnovLr" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="DdJXJKg"><item-head id="GpuypRa"><img id="UQRkwTS" src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="HbwuDuo"><item-title id="WgNiTao" contenteditable="true">Lorem ipsum</item-title><item-desc id="FwAihgz" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc><button type="button" onclick="cartLS.add({id: 4, name: 'Plantita', price: 200})">Add to Cart</button></item-body><button class="no-export grid-delete-item" onclick="deleteItem('DdJXJKg')">-</button></grid-item><grid-item id="uTBDTUO"><item-head id="pomWSPT"><img id="fShLczo" src="https://images.unsplash.com/photo-1502622796232-e88458466c33?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="VDwlWwc"><item-title id="ERwcNOl" contenteditable="true">Lorem ipsum</item-title><item-desc id="FeyHJlK" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('uTBDTUO')">-</button></grid-item><grid-item id="JqsnoPA"><item-head id="PtrcFCE"><img id="eReuiuY" src="https://images.unsplash.com/photo-1529600497935-f5fd7ccf888e?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NXx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="XMRJNhj"><item-title id="ZEiFstr" contenteditable="true">Lorem ipsum</item-title><item-desc id="mkzwaKM" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('JqsnoPA')">-</button></grid-item><grid-item id="XfDFyKc"><item-head id="IJHwMvG"><img id="cnUJLsu" src="https://images.unsplash.com/photo-1509664158680-07c5032b51e5?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="MxfQlCy"><item-title id="kyaYAYf" contenteditable="true">Lorem ipsum</item-title><item-desc id="aLgtVKx" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('XfDFyKc')">-</button></grid-item><button id="jAsPwko" class="no-export grid-add-item" onclick="items200x200('ZhLRYog','jAsPwko', '../global/file/empty.svg')">+</button></grid-box></grid-container></div><!--JS--><script id="syXVYcF" data-type="js">function renderCart(items) {
   const $cart = document.querySelector(".cart")
   const $total = document.querySelector(".total")
   const $totalQuantity = document.querySelector(".total-quantity")
@@ -385,13 +243,7 @@
   $totalQuantity.innerHTML = totalQuantity
 }
 renderCart(cartLS.list())
-cartLS.onChange(renderCart)</script>
-      <!--EDIT-->
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
-  </section>
-  
-  
-  </grid-body><script id="page-global.js" type="text/javascript" data-type="js">document.addEventListener('DOMContentLoaded', function () {
+cartLS.onChange(renderCart)</script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section></grid-body><script id="page-global.js" type="text/javascript" data-type="js">document.addEventListener('DOMContentLoaded', function () {
   document.querySelectorAll('a[href^="#"]').forEach(a => {
     a.onclick = function (e) {
       e.preventDefault();
@@ -414,4 +266,128 @@ cartLS.onChange(renderCart)</script>
       };
     }
   });
-});</script>
+});
+
+
+var cartLS = function (a) {
+  'use strict';
+
+  function b(a, b, c) {
+    return b in a ? Object.defineProperty(a, b, {
+      value: c,
+      enumerable: !0,
+      configurable: !0,
+      writable: !0
+    }) : a[b] = c, a
+  }
+
+  function c(a, b) {
+    var c = Object.keys(a);
+    if (Object.getOwnPropertySymbols) {
+      var d = Object.getOwnPropertySymbols(a);
+      b && (d = d.filter(function (b) {
+        return Object.getOwnPropertyDescriptor(a, b).enumerable
+      })), c.push.apply(c, d)
+    }
+    return c
+  }
+
+  function d(a) {
+    for (var b, d = 1; d < arguments.length; d++) b = null == arguments[d] ?
+      {} : arguments[d], d % 2 ? c(b, !0).forEach(function (c) {
+        f(a, c, b[c])
+      }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(a,
+        Object.getOwnPropertyDescriptors(b)) : c(b).forEach(function (c) {
+        Object.defineProperty(a, c, Object.getOwnPropertyDescriptor(b, c))
+      });
+    return a
+  }
+  var e = function (a, b) {
+      return b = {
+        exports: {}
+      }, a(b, b.exports), b.exports
+    }(function (a) {
+      function b(a) {
+        return b = "function" == typeof Symbol && "symbol" == typeof Symbol
+          .iterator ? function (a) {
+            return typeof a
+          } : function (a) {
+            return a && "function" == typeof Symbol && a.constructor ===
+              Symbol && a !== Symbol.prototype ? "symbol" : typeof a
+          }, b(a)
+      }
+
+      function c(d) {
+        return a.exports = "function" == typeof Symbol && "symbol" === b(
+          Symbol.iterator) ? c = function (a) {
+          return b(a)
+        } : c = function (a) {
+          return a && "function" == typeof Symbol && a.constructor ===
+            Symbol && a !== Symbol.prototype ? "symbol" : b(a)
+        }, c(d)
+      }
+      a.exports = c
+    }),
+    f = b,
+    g = "__cart",
+    h = null,
+    i = function (a) {
+      h = a
+    },
+    j = function (a) {
+      return JSON.parse(localStorage.getItem(a || g)) || []
+    },
+    k = function (a, b) {
+      localStorage.setItem(b || g, JSON.stringify(a)), h && h(j(b || g))
+    },
+    l = function (a) {
+      localStorage.removeItem(a || g), h && h(j(a || g))
+    },
+    m = function (a) {
+      return j().find(function (b) {
+        return b.id === a
+      })
+    },
+    n = function (a) {
+      return !!m(a)
+    },
+    o = function (a) {
+      return k(j().filter(function (b) {
+        return b.id !== a
+      }))
+    },
+    p = function (a, b, c) {
+      return k(j().map(function (e) {
+        return e.id === a ? d({}, e, f({}, b, c)) : e
+      }))
+    },
+    q = function (a) {
+      return a.id && a.price
+    },
+    r = function (a) {
+      return s(a) ? a.price * a.quantity : 0
+    },
+    s = function (a) {
+      return a && a.price && a.quantity
+    },
+    t = function (a) {
+      return a && "function" == typeof a
+    };
+  return a.add = function (a, b) {
+    return q(a) ? n(a.id) ? p(a.id, "quantity", m(a.id).quantity + (b ||
+      1)) : k(j().concat(d({}, a, {
+        quantity: b || 1
+      }))) : null
+  }, a.destroy = function () {
+    return l()
+  }, a.exists = n, a.get = m, a.list = j, a.onChange = function (a) {
+    return t(a) ? i(a) : console.log(e(a))
+  }, a.quantity = function (a, b) {
+    return n(a) && 0 < m(a).quantity + b ? p(a, "quantity", m(a).quantity +
+      b) : o(a)
+  }, a.remove = o, a.subtotal = r, a.total = function (a) {
+    return j().reduce(function (b, c) {
+      return t(a) ? a(b, c) : b += r(c)
+    }, 0)
+  }, a.update = p, a
+}({}); //# sourceMappingURL=cart-localstorage.min.js.map</script>
